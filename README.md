@@ -4,6 +4,8 @@ A small C++ program that collects user information, calculates BMI (Body Mass In
 
 ## What the program does
 1. Asks the user for basic information:
+
+
    - Name
    - Age
    - Height (in meters)
@@ -29,7 +31,7 @@ Categories:
 - BMI 25 – 29.9 → Overweight  
 - BMI ≥ 30 → Obese
 
-(Recommend printing BMI to 1–2 decimal places for readability.)
+(Recommend printing BMI to 1–2 decimal places for reaBdability.)
 
 ## Grade calculation
 Convert the numeric score to a letter grade:
@@ -62,3 +64,7 @@ Hey Alex, you're 20 years old with a BMI of 22.20 (Normal weight) and you got a 
 - Use `std::fixed` and `std::setprecision(2)` (from `<iomanip>`) to format the BMI output.
 - Validate inputs where appropriate (e.g., non-negative height/weight, score between 0 and 100).
 - Keep the program interactive with clear prompts.
+
+
+## Summery of work
+Here I made a program which collects the user's data, calculate their BMI and calculate their letter grade. 

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Erika Garcia\\OneDrive\\Desktop\\C\u002B\u002B\\CIS_5_Assignment_2_Winter_26\\assignment 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0502BC-077A-4E44-B86E-A097945AF5E7}|assignment 2.vcxproj|C:\\Users\\Erika Garcia\\OneDrive\\Desktop\\C\u002B\u002B\\CIS_5_Assignment_2_Winter_26\\assignment 2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED0502BC-077A-4E44-B86E-A097945AF5E7}|assignment 2.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Erika Garcia\\OneDrive\\Desktop\\C\u002B\u002B\\CIS_5_Assignment_2_Winter_26\\assignment 2\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\Erika Garcia\\OneDrive\\Desktop\\C\u002B\u002B\\CIS_5_Assignment_2_Winter_26\\assignment 2\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-06T21:31:47.791Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
